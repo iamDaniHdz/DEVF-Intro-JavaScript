@@ -102,3 +102,7 @@ Example:
 
 > It supposed to be filled using it's own function
 Add any type of element on the object.. arrays, objects, int, strings, etc
+
+# Descripción de la actividad
+
+<img src="https://github.com/iamDaniHdz/DEVF-Intro-JavaScript/blob/master/actividad-08/actividad-08-IntroJS.png">
